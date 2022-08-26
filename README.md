@@ -1,2 +1,2 @@
-# alitudo.github.io
+# Alitudo S d.o.o.
 Landing page
