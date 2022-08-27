@@ -1,6 +1,6 @@
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Advisory services in food products development and food safety
-description: Alitudo S Ltd, Zagreb, Croatia
+title: ALitudo
+description: Advisory services in food products development and food safety
 show_downloads: false
